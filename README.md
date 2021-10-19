@@ -11,7 +11,7 @@ A Next.js React app that allows a user to type in a textarea while keeping track
 To build and run the demo:      
 * Clone this repository:
 ```sh
-git clone https://github.com/dibenso/word-counter.git
+git clone https://github.com/mihir202/WordCount.git
 ```     
 * Install dependencies:    
 ```sh
